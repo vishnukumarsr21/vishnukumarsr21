@@ -1,12 +1,48 @@
-https://media.licdn.com/dms/image/D5616AQG6cQZV_2fXog/profile-displaybackgroundimage-shrink_350_1400/0/1709834400835?e=1721260800&v=beta&t=2NoKybymigd8de9Y2gurpwxqBN6qs5ahJSKaGUXYMLM
 ## 👋 About Me
-I'm a passionate student pursuing a Bachelor's in Electronics and Communication Engineering at Karpagam Institute of Technology. My interests span across various domains, including web technology, digital electronics, and design using Figma. Currently, I'm deeply immersed in sharpening my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack, exploring its intricacies to develop robust web applications. Beyond the digital realm, I'm delving into embedded systems and IoT (Internet of Things), fascinated by their potential to revolutionize technology interaction. My goal is to integrate these technologies seamlessly to create innovative solutions that address real-world challenges. I thrive in collaborative environments and am eager to contribute to projects that foster creativity and teamwork. If you're seeking a passionate individual to join your project or team, I'd love to connect and explore potential collaborations.
+I'm a passionate student pursuing a Bachelor's in Electronics and Communication Engineering at Karpagam Institute of Technology. 
+My interests span across various domains, including web technology, digital electronics, and analog design. 
+Currently, I'm deeply immersed in sharpening my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack, exploring its intricacies to develop robust web applications. 
+Beyond the digital realm, I'm delving into embedded systems and IoT (Internet of Things), fascinated by their potential to revolutionize technology interaction. 
+My goal is to integrate these technologies seamlessly to create innovative solutions that address real-world challenges. 
+I thrive in collaborative environments and am eager to contribute to projects that foster creativity and teamwork. 
+If you're seeking a passionate individual to join your project or team, I'd love to connect and explore potential collaborations.
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishnu_finisher_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnukumarsr21)
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnukumarsr21)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/vishnukumarsr21)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishnu_finisher_)
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# 👨🏼‍💻 Tech Stack:
+
+## Programming Skills
+- C: 🔧
+- Java: ☕
+- Python: 🐍
+- Javascript: 🚀
+
+## Technical Toolbox
+- MongoDB: 🍃
+- Express.js: 🚀
+- React.js: ⚛️
+- Node.js: 📦
+
+## Version Control
+- GitHub: 🐙
+- GitHub Actions: 🚀
+
+
+
+# 🧩 LeetCode Profile:
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/21ecb58/)
+
+# 👨‍💻 GeeksForGeeks Profile:
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vishnufinisher21/)
+
+# 🏋️‍♂️ SkillRack Profile:
+[![Skillrack](https://img.shields.io/badge/Skillrack-%23FF6347.svg?logo=skillrack&logoColor=white)](http://www.skillrack.com/profile/372981/3cf83835e3fc1ee938493b7d86db5560fe10f0ce)
+
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnukumarsr21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
