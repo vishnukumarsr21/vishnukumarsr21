@@ -45,7 +45,6 @@ If you're seeking a passionate individual to join your project or team, I'd love
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnukumarsr21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vishnukumarsr21&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukumarsr21&theme=dark&hide_border=false&layout=compact)
 
