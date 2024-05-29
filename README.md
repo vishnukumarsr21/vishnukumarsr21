@@ -1,5 +1,5 @@
 ## 👋 About Me
-I'm a passionate student pursuing a Bachelor's in Electronics and Communication Engineering at Karpagam Institute of Technology. 
+I'm a passionate student pursuing a Bachelor's in Electronics and Communication Engineering at Karpagam Institute of Technology.
 My interests span across various domains, including web technology, digital electronics, and analog design. 
 Currently, I'm deeply immersed in sharpening my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack, exploring its intricacies to develop robust web applications. 
 Beyond the digital realm, I'm delving into embedded systems and IoT (Internet of Things), fascinated by their potential to revolutionize technology interaction. 
