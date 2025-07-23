@@ -34,10 +34,10 @@ I am highly motivated to contribute to innovative projects 🤝, collaborate wit
 
 
 ## 🧩 LeetCode Profile:
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/21ecb58/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/vishnukumarsr21/)
 
 ## 👨‍💻 GeeksForGeeks Profile:
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vishnufinisher21/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vishnukumarsr21/)
 
 ## 🏋️‍♂️ SkillRack Profile:
 [![Skillrack](https://img.shields.io/badge/Skillrack-%23FF6347.svg?logo=skillrack&logoColor=white)](http://www.skillrack.com/profile/372981/3cf83835e3fc1ee938493b7d86db5560fe10f0ce)
