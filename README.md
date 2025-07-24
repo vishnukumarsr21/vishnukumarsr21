@@ -11,7 +11,6 @@ I am highly motivated to contribute to innovative projects 🤝, collaborate wit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnukumarsr21)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/vishnukumarsr21)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishnu_finisher)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/vishnukumarsr)
 
 
 # 👨🏼‍💻 Tech Stack:
@@ -42,6 +41,9 @@ I am highly motivated to contribute to innovative projects 🤝, collaborate wit
 
 ## 🏋️‍♂️ SkillRack Profile:
 [![Skillrack](https://img.shields.io/badge/Skillrack-%23FF6347.svg?logo=skillrack&logoColor=white)](http://www.skillrack.com/profile/372981/3cf83835e3fc1ee938493b7d86db5560fe10f0ce)
+
+## 💻 CodeChef Profile:
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/vishnukumarsr)
 
 
 
